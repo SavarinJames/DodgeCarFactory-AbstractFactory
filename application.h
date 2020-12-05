@@ -10,6 +10,6 @@
 #include "factory_challenger.h"
 #include "factory_durango.h"
 
-void application();
+void application(int choice);
 
 #endif

@@ -9,5 +9,6 @@ using namespace std;
 
 int main()
 {
-    application();
+    application(1);
+    application(2);
 }

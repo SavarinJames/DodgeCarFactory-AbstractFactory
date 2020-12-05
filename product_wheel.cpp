@@ -22,7 +22,7 @@ void Wheel::displayWheel()
 ChallengerWheel::ChallengerWheel()
 {
     appearance = "Black";
-    material = "Forged Alluminum";
+    material = "Forged Aluminium";
     diameter = 20;
     width = 9.5;
 }
@@ -41,7 +41,7 @@ void ChallengerWheel::displayWheel()
 DurangoWheel::DurangoWheel()
 {
     appearance = "Black";
-    material = "Alluminum";
+    material = "Aluminium";
     diameter = 20.0;
     width = 10.0;
 }
